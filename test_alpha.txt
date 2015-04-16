@@ -1,0 +1,1 @@
+This is a sample document to test copying function using the Terminal.
